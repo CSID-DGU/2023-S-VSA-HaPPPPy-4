@@ -84,27 +84,27 @@ app.get("/displayData", async (req, res) => {
     const f={
       "New York" : {
         "해상" : 90,
-        "항공" : 2250,
+        "항공" : 180,
         countryrate : 1286.65
       },
       "Ottawa" : {
         "해상" : 99,
-        "항공" : 2000,
+        "항공" : 200,
         countryrate : 980.19
       },
       "Berlin" : {
         "해상" : 110,
-        "항공" : 3000,
+        "항공" : 300,
         countryrate : 1444.22
       },
       "Milano" : {
         "해상" : 108,
-        "항공" : 2890,
+        "항공" : 289,
         countryrate : 1444.22
       },
       "Tokyo" : {
         "해상" : 40,
-        "항공" : 1250,
+        "항공" : 120,
         countryrate : 9.21
       },
     }
